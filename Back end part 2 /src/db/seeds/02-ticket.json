@@ -1,0 +1,22 @@
+[
+  {
+    "employee_id": 1,
+    "customer_id": 1,
+    "case_start_date": "2021-02-01",
+    "resolution_date": "2035-02-02",
+    "status": "in_progress"
+  },
+  {
+    "employee_id": 1,
+    "customer_id": 2,
+    "case_start_date": "2021-02-02",
+    "resolution_date": "2021-02-03",
+    "status": "completed"
+  },
+  {
+    "employee_id": 2,
+    "customer_id": 1,
+    "case_start_date": "2035-03-01",
+    "status": "in_queue"
+  }
+]

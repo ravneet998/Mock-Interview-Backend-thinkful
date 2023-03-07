@@ -1,1 +1,1 @@
-# Mock-Interview-Backend-thinkful
+# Mock Interview Backend - thinkful
